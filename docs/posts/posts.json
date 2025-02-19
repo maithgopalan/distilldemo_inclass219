@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2025-02-19-first-post/",
+    "title": "First-post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Maithreyi Gopalan",
+        "url": "https://maithgopalan.github.io/"
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\r\nCheck it out. Here’s an amazing plot, with ggplot2.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2025-02-19-first-post/first-post_files/figure-html5/plot-1.png",
+    "last_modified": "2025-02-19T15:36:19-08:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to distilldemo_inclass219",
     "description": "Welcome to our new blog, distilldemo_inclass219. We hope you enjoy \nreading what we have to say!",

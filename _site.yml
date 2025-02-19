@@ -3,6 +3,7 @@ title: "distilldemo_inclass219"
 description: |
   distilldemo_inclass219
 output_dir: "docs"
+base_url: https://maithgopalan.github.io/distilldemo_inclass219/
 navbar:
   right:
     - text: "Home"
