@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to distilldemo_inclass219",
+    "description": "Welcome to our new blog, distilldemo_inclass219. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Maithreyi Gopalan",
+        "url": "https://maithgopalan.github.io/"
+      }
+    ],
+    "date": "2025-02-19",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2025-02-19T15:14:17-08:00",
+    "input_file": {}
+  }
+]
