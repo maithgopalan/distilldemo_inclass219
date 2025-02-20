@@ -10,10 +10,12 @@
       }
     ],
     "date": "2025-02-19",
-    "categories": [],
+    "categories": [
+      "ggplot2"
+    ],
     "contents": "\r\nCheck it out. Here’s an amazing plot, with ggplot2.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "preview": "posts/2025-02-19-first-post/first-post_files/figure-html5/plot-1.png",
-    "last_modified": "2025-02-19T15:36:19-08:00",
+    "last_modified": "2025-02-19T16:03:53-08:00",
     "input_file": {},
     "preview_width": 1248,
     "preview_height": 768
